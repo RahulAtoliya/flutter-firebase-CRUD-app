@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Project Description: Flutter and Firebase CRUD Application
 
 #### Overview
@@ -92,3 +93,21 @@ This project aims to develop a cross-platform mobile application using Flutter a
 #### Conclusion
 
 This project serves as a practical guide to integrating Flutter with Firebase for building robust, real-time applications. It covers essential concepts and features, providing a solid foundation for further development and customization. Whether you're a beginner or an experienced developer, this project will help you understand the full lifecycle of Flutter app development with Firebase.
+=======
+# flutter_app_2
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 03932d5 (Initial commit)
