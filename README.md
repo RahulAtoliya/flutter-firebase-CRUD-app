@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### Project Description: Flutter and Firebase CRUD Application
 
 #### Overview
